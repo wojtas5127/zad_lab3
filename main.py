@@ -73,7 +73,23 @@ from random import randint
 
 #zad6
 
+# a = int(input("a:"))
+# b = int(input("b:"))
+# ile = int(input("ile:"))
+# def iloczyn_ciagu(a = 1, b = 4, ile = 10):
+#     return a + (b * ile)
+#
+# print(iloczyn_ciagu(a,b,ile))
+
 #zad7
+
+# a = int(input("a:"))
+# b = int(input("b:"))
+# ile = int(input("ile:"))
+# def te_same_dzialania(*args):
+#     return args[0] + (args[1] * args[2])
+#
+# print(te_same_dzialania(a,b,ile))
 
 #zad8
 
